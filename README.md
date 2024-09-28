@@ -3,6 +3,11 @@ Vamos a realizar un pequeño ejercicio aplicando la arquitectura cliente-servido
 El objetivo principal es un chat en el que servidor acepte varios clientes, y pues que cada cliente pueda enviar y recibir mensajes haciendo uso del chat.
 Buscamos que sea
 
+# Estructura del proyecto en NetBeans
+
+
+![image](https://github.com/user-attachments/assets/6ef9dc60-c026-4ee4-98ee-b7665b4a75da)
+
 
 # Codigo del Cliente
 ```javascript
