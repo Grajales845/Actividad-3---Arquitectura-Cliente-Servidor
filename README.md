@@ -138,6 +138,14 @@ public class Server {
 - El servidor crea un ServerSocket que escuha en un puerto (12345) especifico.
 - Cada vez que un cliente se conecta se crea un hilo, permitiendo que varios clientes se puedan conectar al servidor
 
+El servidor puede enviar mensajes a los clientes
+
+![image](https://github.com/user-attachments/assets/ced2930b-3d14-4668-84bb-a0745a8695b5)
+
+Y el cliente los recibe:
+
+![Uploading image.png…]()
+
 
 
 
