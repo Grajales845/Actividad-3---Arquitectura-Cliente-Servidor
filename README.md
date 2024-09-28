@@ -144,7 +144,8 @@ El servidor puede enviar mensajes a los clientes
 
 Y el cliente los recibe:
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/654c64b4-0579-44c7-9015-a10e3e8eac9a)
+
 
 
 
