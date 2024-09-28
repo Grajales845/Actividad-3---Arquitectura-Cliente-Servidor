@@ -69,11 +69,13 @@ public class Cliente {
 
   El cliente envia un mensaje:
   
-  ![image](https://github.com/user-attachments/assets/aa06feda-c537-4cd2-b89b-ccdfd84c0c90)
+  ![image](https://github.com/user-attachments/assets/8f108e0b-8862-49f5-a6fc-a1fc8346f2c3)
+
 
   El servidor recibe el mensaje:
 
-  ![image](https://github.com/user-attachments/assets/9fc44b00-a7fb-4db5-8537-20276cbb67e0)
+  ![image](https://github.com/user-attachments/assets/85fa37ff-889b-412c-83d5-8cd178b1a5fb)
+
 
 
 
