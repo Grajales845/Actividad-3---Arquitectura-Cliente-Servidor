@@ -146,6 +146,9 @@ Y el cliente los recibe:
 
 ![image](https://github.com/user-attachments/assets/654c64b4-0579-44c7-9015-a10e3e8eac9a)
 
+Varios clientes pueden conectarse al servidor:
+
+![image](https://github.com/user-attachments/assets/f60d761f-4cf0-4de3-b88d-beaaee2abe1f)
 
 
 
