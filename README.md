@@ -63,6 +63,20 @@ public class Cliente {
     }
 }
 ```
+- El cliente se concecta al servidor mediante un Socket
+- Creandose un hilo que puede leer los mensajes del servidor.
+- El cliente una vez conectado podra enviar mensajes desde la consola, ejemplo:
+
+  El cliente envia un mensaje:
+  
+  ![image](https://github.com/user-attachments/assets/aa06feda-c537-4cd2-b89b-ccdfd84c0c90)
+
+  El servidor recibe el mensaje:
+
+  ![image](https://github.com/user-attachments/assets/9fc44b00-a7fb-4db5-8537-20276cbb67e0)
+
+
+
 # Codigo del Servidor
 
 ```java
@@ -119,7 +133,8 @@ public class Server {
 }
 ```
 
-
+- El servidor crea un ServerSocket que escuha en un puerto (12345) especifico.
+- Cada vez que un cliente se conecta se crea un hilo, permitiendo que varios clientes se puedan conectar al servidor
 
 
 
