@@ -1,6 +1,8 @@
 # Actividad-3---Arquitectura-Cliente-Servidor
 Vamos a realizar un pequeño ejercicio aplicando la arquitectura cliente-servidor utilizando un chat con el lenguaje JAVA y usando el entorno de desarrollo integrado NetBeans. 
-La idea principal es que el servidor acepte varios clientes, y pues que cada cliente pueda enviar y recibir mensajes haciendo uso del chat
+El objetivo principal es un chat en el que servidor acepte varios clientes, y pues que cada cliente pueda enviar y recibir mensajes haciendo uso del chat.
+Buscamos que sea
+
 
 # Codigo del Cliente
 ```javascript
@@ -152,7 +154,9 @@ Varios clientes pueden conectarse al servidor:
 
 ![image](https://github.com/user-attachments/assets/f60d761f-4cf0-4de3-b88d-beaaee2abe1f)
 
+# Conclusion de la arquitectura cliente servidor
 
+La arquitectura cliente-servidor es crucial en sistemas de chat porque proporciona un control centralizado, permite una mejor gestión de conexiones, mejora la seguridad, facilita la escalabilidad y asegura un rendimiento eficiente. Esto la convierte en la elección natural para la mayoría de las aplicaciones de mensajería en tiempo real, desde chats simples hasta aplicaciones de mensajería masiva como WhatsApp o Slack.
 
 
 
