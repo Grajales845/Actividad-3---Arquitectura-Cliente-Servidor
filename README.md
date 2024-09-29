@@ -10,7 +10,7 @@ Buscamos que sea
 
 
 # Codigo del Cliente
-```javascript
+```java
 import java.io.*;
 import java.net.*;
 import java.util.Scanner;
